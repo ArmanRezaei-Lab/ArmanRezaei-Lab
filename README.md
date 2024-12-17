@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1358/1*RTGHo8x278rzhj2cZSjwtA.gif" width="600" alt="IoT Poster">
-  <h1>👨‍💻 Hello World! I'm Esmail Sarhadi 🌟</h1>
+  <h1>👨‍💻 Hello World! I'm  arman rezai 🌟</h1>
   <h3>🚀 IoT Innovator | Embedded Systems Expert | Tech Entrepreneur</h3>
 </div>
 
@@ -112,16 +112,13 @@
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80" alt="Connect"> Let's Connect
 
 <p align="center">
-  <a href="mailto:sarhadiemsail@gmail.com">
+  <a href="mailto:arman_rz1@yahoo.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/arman-rezaei-b9088a318">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
-  <a href="https://twitter.com/esmail62535258">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="40"/>
-  </a>
-  <a href="https://github.com/esmail-sarhadi">
+  <a href="https://github.com/ArmanRezaei-Lab">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
   </a>
 </p>
@@ -132,13 +129,7 @@
 
 <h3 align="center">Innovating the Future, One Smart Device at a Time 🌍✨</h3>
 
----
-<a href="https://nowpayments.io/donation?api_key=REWCYVC-A1AMFK3-QNRS663-PKJSBD2&source=lk_donation&medium=referral" target="_blank">
-   <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
-</a>
 
-
----
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
