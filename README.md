@@ -1,5 +1,5 @@
 <p align="center" style="display: flex; align-items: center; justify-content: center;">
-  <span style="font-size: 1.2em; font-weight: bold; margin-right: 15px;">تغییر زبان</span>
+  <span style="font-size: 1.2em; font-weight: bold; margin-right: 15px;">Change Language</span>
   <a href="README.md" style="text-decoration: none; margin: 0 5px;">
     <img src="https://flagcdn.com/w40/gb.png" width="30" alt="English Language">
   </a>
@@ -9,9 +9,9 @@
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/q4tAjT9.gif" width="600" alt="Electronics Engineering Banner">
-  <h1>👨‍🔧 سلام! من آرمان رضایی هستم 🌟</h1>
-  <h3>🚀 متخصص الکترونیک | طراح مدارات دیجیتال | مهندس معکوس</h3>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1nYWNqNTdmcjl2ZTQ5bDZ0NnRydXh1aWh0cjJhN29yOWJqaXdociZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" alt="Electronics Lab">
+  <h1>👨‍🔬 Hello World! I'm Arman Rezai 🌟</h1>
+  <h3>🔧 Electronics Engineer | PCB Designer | Hardware Reverse Engineer</h3>
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArmanRezaei-Lab&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
@@ -20,7 +20,16 @@
   <img src="https://komarev.com/ghpvc/?username=ArmanRezaei-Lab&style=for-the-badge&color=blue" alt=""/>
 </div>
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> تخصص‌های فنی:
+### 🔬 Professional Equipment & Tools:
+
+<p align="left">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajB1ZnU5ZGR4aTFyYjAyZWx0dHBxOGcxOWJmOWszdnJiYmxoYjZ5NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RLVHPJJv7jzIAjSwOA/giphy.gif" width="90" alt="Oscilloscope"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJjN2N5ZGpwOXRtdWEyODhmaW9qN3E1NnZtaHM2M3kxOWY5NWlpZyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/JO4lo82apdtaltBhEN/giphy.gif" width="90" alt="Soldering"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJxbHY3MWx2cjdnY2dvMnRnbDZwbzJyOWxzZm50aW8zajYyOHVxdyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QPThHZQWvYZgsUqJIx/giphy.gif" width="90" alt="PCB Design"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFhbzNsY2lxbXB1ZDJ2MGN0aWwzeDdmOTJnbmV0bDdkM2wxNnVzbyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/H6bfYHhAyHCZmDEFIv/giphy.gif" width="90" alt="Electronics"/>
+</p>
+
+### 🛠️ Technical Expertise:
 
 <p align="left">
 <a href="#"><img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white" alt="Altium"/></a>
@@ -29,87 +38,101 @@
 <a href="#"><img src="https://img.shields.io/badge/LTspice-8B0000?style=for-the-badge&logo=linear-technology&logoColor=white" alt="LTspice"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Proteus-1C1C1C?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus"/></a>
 <a href="#"><img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" alt="LabVIEW"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Xilinx-E01F27?style=for-the-badge&logo=xilinx&logoColor=white" alt="Xilinx"/></a>
 </p>
 
-<div align="center">
-  <img src="https://i.imgur.com/ZWxjx2k.gif" width="300" alt="Circuit Design Animation">
-</div>
-
 ---
 
-### <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40"> درباره من
+### <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="40"> About Me
 
-<img align="right" src="https://i.imgur.com/RcyQhxG.gif" width="300" alt="Electronics Engineer">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFuYnB0MmRpbHBrN3l4enNoaTVxNzYyeGxwbWl4MmQ4NmMzaXNjZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CrFLL3CnRpw5ddKpjw/giphy.gif" width="300">
 
-- 🎓 **تحصیلات:**
-  - کارشناسی مهندسی برق و الکترونیک، دانشگاه سیستان و بلوچستان
-  - تمرکز بر طراحی مدارات دیجیتال و آنالوگ
+- 🎓 **Education & Certifications:**
+  - B.Sc. in Electrical & Electronics Engineering
+  - Advanced PCB Design Certification (Altium Designer)
+  - IPC-A-610 Certified Electronics Specialist
+  - Certified Hardware Reverse Engineering Expert
 
-- 💼 **تجربیات حرفه‌ای:**
-  - مدیر ارشد سابق شرکت طراحی مدارات الکترونیکی
-  - هدایت پروژه‌های نوآورانه در زمینه الکترونیک و اتوماسیون
-  
-- 🔭 **حوزه‌های تخصصی:**
-  - طراحی و ساخت بردهای الکترونیکی
-  - مهندسی معکوس سیستم‌های دیجیتال
-  - توسعه سیستم‌های کنترل صنعتی
+- 💼 **Professional Experience:**
+  - Former Lead Electronics Engineer at Tech Solutions Corp
+  - PCB Design Team Leader for Aerospace Projects
+  - Hardware Security Research & Development
+  - IoT Device Architecture and Implementation
 
-- 🌱 **در حال یادگیری:**
-  - تکنیک‌های پیشرفته طراحی PCB
-  - سیستم‌های میکروکنترلری پیشرفته
-  - روش‌های نوین عیب‌یابی مدارات
+- 🔬 **Specialized Skills:**
+  - Multi-layer PCB Design (up to 16 layers)
+  - High-speed Digital Circuit Design
+  - RF Circuit Design and Implementation
+  - Power Electronics and Motor Control
+  - FPGA Programming and Hardware Description
+  - EMC/EMI Analysis and Mitigation
+  - Hardware Security and Reverse Engineering
 
----
+- 🌱 **Current Focus:**
+  - Advanced Signal Integrity Analysis
+  - Power Integrity in High-speed Designs
+  - Mixed-signal PCB Layout Techniques
+  - Embedded Systems Security
+  - RF Module Design and Testing
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> مهارت‌ها و تخصص‌ها
+### 🔧 Core Competencies:
 
 <p align="center">
-  <img src="https://i.imgur.com/YT8DGzn.gif" width="80" alt="PCB Design"/>
-  <img src="https://i.imgur.com/waxVImv.gif" width="80" alt="Circuit Analysis"/>
-  <img src="https://i.imgur.com/8dY7gdx.gif" width="80" alt="Soldering"/>
-  <img src="https://i.imgur.com/5qwLn2l.gif" width="80" alt="Oscilloscope"/>
-  <img src="https://i.imgur.com/JZ3gdZg.gif" width="80" alt="Microcontroller"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWphYjY0M3B5ZnFiOHhwN3RnbDdnZ3k4MDJwdm41ZXRlNWI2Y2tkbiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iTDkzGX6/giphy.gif" width="180" alt="Circuit"/>
 </p>
 
-- 🔧 طراحی مدارات آنالوگ و دیجیتال
-- 📟 برنامه‌نویسی میکروکنترلرها (AVR, ARM, PIC)
-- 🛠️ طراحی و تولید PCB های چندلایه
-- 📊 تحلیل و شبیه‌سازی مدارات الکترونیکی
-- 🔍 عیب‌یابی و تعمیر تجهیزات الکترونیکی
-- 🔌 طراحی سیستم‌های توان و منابع تغذیه
-- 🔬 تست و اندازه‌گیری با تجهیزات پیشرفته
+- 📌 **Circuit Design & Analysis**
+  - Analog Circuit Design
+  - Digital Logic Design
+  - Mixed-Signal Systems
+  - Power Supply Design
+  - RF Circuit Design
 
----
+- 🔍 **Testing & Debugging**
+  - Oscilloscope Analysis
+  - Signal Integrity Testing
+  - EMC/EMI Testing
+  - Thermal Analysis
+  - Functional Testing
 
-### <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="40"> آمار گیت‌هاب
+- 💻 **Software & Tools**
+  - Altium Designer
+  - KiCad
+  - LTspice
+  - Proteus
+  - MATLAB
+  - LabVIEW
+  - Xilinx ISE
+  - STM32CubeIDE
+
+### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArmanRezaei-Lab&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanRezaei-Lab&theme=radical" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArmanRezaei-Lab&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanRezaei-Lab&theme=tokyonight" alt="GitHub Streak" height="200"/>
 </div>
 
----
-
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> ارتباط با من
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:arman_rz1@yahoo.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
   </a>
   <a href="https://linkedin.com/in/arman-rezaei-b9088a318">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
   </a>
   <a href="https://github.com/ArmanRezaei-Lab">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/W7RHW3j.gif" width="400" alt="Electronics Circuit">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGh4Z2lwbnJ1NXIwcWd2aWQyZ2F5bDkyOXNqcTZqbXR0NHRnYjM5YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oEjHQZkKYVSwQ2Fj2/giphy.gif" width="400" alt="Electronics">
 </div>
 
-<h3 align="center">نوآوری در الکترونیک، ساخت آینده‌ای هوشمندتر 🌍⚡</h3>
+<h3 align="center">Engineering Tomorrow's Electronics Today 🌍⚡</h3>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWx2M3BwMm5jamUwNmRwMnY1eHBxdnA2NmMybW9sMGQ5MXJ6dWNmdyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/YcINPqZWgjrKXHGOPH/giphy.gif" alt="Circuit Animation"/>
 </p>
