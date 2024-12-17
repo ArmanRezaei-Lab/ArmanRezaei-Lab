@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1nYWNqNTdmcjl2ZTQ5bDZ0NnRydXh1aWh0cjJhN29yOWJqaXdociZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" alt="Electronics Lab">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNlejhnZ242MmNzYmI2bThobjgyajkzcWsxN3hpNzdwamZiZndiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ncdSIcmB7iGEvDX1Z3/giphy-downsized-large.gif" width="600" alt="Electronics Lab">
   <h1>👨‍🔬 Hello World! I'm Arman Rezai 🌟</h1>
   <h3>🔧 Electronics Engineer | PCB Designer | Hardware Reverse Engineer</h3>
 </div>
